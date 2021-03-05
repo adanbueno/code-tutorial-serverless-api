@@ -1,2 +1,3 @@
 # code-tutorial-serverless-api
-Treinando aws
+
+Construindo uma API sem servidor com AWS lambda, APIGateway e dynamodb do zero
